@@ -23,6 +23,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Breakdownschets (week 1)
+![alt text](https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/The%20Sting%20Home%20Breakdown.jpg "Logo Title Text 1" width="150px")
 
 -uitwerken voor de 1e werkgroep - eind van de eerste week-
 
