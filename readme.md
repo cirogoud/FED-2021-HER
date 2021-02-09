@@ -13,19 +13,21 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je opdracht:** www.thesting.com
 
-**Screenshot(s) van de eerste pagina (small screen):**
 
+NOTE: ik ben er nog niet uit hoe ik de afbeelding hier in moet plaatsen dus voor nu even de linkjes naar de map op github zelf...
+
+**Screenshot(s) van de eerste pagina (small screen):**
+https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/The%20Sting%20home.jpg
 <img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
-
+https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/Lost%20Minds%20detail.jpg
 <img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
 
 
 ## Breakdownschets (week 1)
-!(https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/The%20Sting%20Home%20Breakdown.jpg)
-
--uitwerken voor de 1e werkgroep - eind van de eerste week-
+https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/The%20Sting%20Home%20Breakdown.jpg
+https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/Lost%20Minds%20Detail%20Breakdown.jpg
 
 
 ## Voortgang 1 (week 3)
