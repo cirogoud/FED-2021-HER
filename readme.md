@@ -22,7 +22,7 @@ https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/The%20St
 IGNORE (dient als vb voor mezelf): <img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
-https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/Lost%20Minds%20detail.jpg
+https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/Lost%20Minds%20Detail%20Breakdown.jpg
 
 IGNORE (dient als vb voor mezelf): <img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
 
