@@ -33,7 +33,8 @@ https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/Lost%20M
 
 
 ## Voortgang 1 (week 3)
-
+### Stand van zaken
+Dit ging goed dit ging minder
 
 ## Voortgang 2 (week 5)
 
