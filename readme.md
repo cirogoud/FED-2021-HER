@@ -28,7 +28,7 @@ IGNORE (dient als vb voor mezelf): <img src="images/dummy-plaatje.svg" width="37
 
 
 ## Breakdownschets (week 1)
-https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/The%20Sting%20Home%20Breakdown.jpg
+https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/The%20Sting%20Home%20Breakdown.jpg?raw=true
 https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/Lost%20Minds%20Detail%20Breakdown.jpg
 
 
