@@ -34,7 +34,15 @@ https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/Lost%20M
 
 ## Voortgang 1 (week 3)
 ### Stand van zaken
-Dit ging goed dit ging minder
+Mijn html was nog niet helemaal op orde en ik had wat kleine dingen in de css geprobeerd om bepaalde classes aan te spreken. Tijdens het feedback gesprek kreeg ik de volgende punten om naar te kijken:
+
+- Section boven article
+- Nav in header
+- H3 ipv h2
+- H2 zou section header zijn
+- script.js
+- Geen px maar em
+- Sections in een main
 
 ## Voortgang 2 (week 5)
 
