@@ -17,7 +17,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 NOTE: ik ben er nog niet uit hoe ik de afbeelding hier in moet plaatsen dus voor nu even de linkjes naar de map op github zelf...
 
 **Screenshot(s) van de eerste pagina (small screen):**
-https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/The%20Sting%20Home%20Breakdown.jpg
+https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/Lost%20Minds%20Detail%20Breakdown.jpg?raw=true
 
 IGNORE (dient als vb voor mezelf): <img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
 
