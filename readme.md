@@ -71,9 +71,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
-https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/The%20Sting%20Home%20Breakdown.jpg?raw=true
-https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/Lost%20Minds%20Detail%20Breakdown.jpg?raw=true
+<img src="./images/The Sting Home Breakdown.jpg" alt="">
+<img src="./images/Lost Minds Detail Breakdown.jpg" alt="">
 
 
 ## Intake (week 1)
@@ -87,8 +86,8 @@ https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/Lost%20M
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="./images/The Sting Home Breakdown.jpg" alt="">
+<img src="./images/The Sting home.jpg" alt="">
 
 **Screenshot(s) van de tweede pagina (small screen):**
-
-<img src="./images/Lost Minds Detail Breakdown.jpg" alt="">
+    
+<img src="./images/Lost Minds detail.jpg" alt="">
