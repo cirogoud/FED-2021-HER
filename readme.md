@@ -1,14 +1,15 @@
 # Procesverslag
-**Auteur:** -jouw naam-
+**Auteur:** Ciro Goudswaard
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+2. https://css-tricks.com/dont-overthink-flexbox-grids/
+3. https://blog.hubspot.com/marketing/html-form-email
+4. https://www.w3schools.com/howto/howto_css_image_text.asp
 
 
 
