@@ -1,0 +1,128 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+}
+
+
+/* NAVIGATIE */
+
+header nav ul {
+    list-style-type: none;
+    padding: 1em;
+    background-color: black;
+    display: inline-block;
+  }
+
+header nav ul li {
+    background-color: black;
+  }
+
+header nav ul li a {
+    text-decoration: none;
+    color: white;
+  }
+
+/* BODY  */
+
+button {
+    cursor: pointer;
+}
+
+p {
+    color: black !important; 
+}
+
+/* FIRST SECTION */
+
+section:first-of-type {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+ul:last-of-type {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 0,1em;
+}
+
+h3 {
+    color: white;
+    font-size: 2.5em;
+}
+
+button {
+    background-color: white;
+    border: none;
+    padding: 0.5em 1.5em 0.5em 1.5em;
+}
+
+#firsttxt {
+    position: absolute;
+    bottom: 8em;
+    left: 3em;
+}
+
+#firstbtn {
+    position: absolute;
+    bottom: 20em;
+    left: 9.2em;
+}
+
+#secondtxt {
+    position: absolute;
+    bottom: 8em;
+    left: 29em;
+}
+
+#secondbtn {
+    position: absolute;
+    bottom: 20em;
+    left: 87.2em;
+}
+
+
+/* SECOND SECTION */
+
+#IGsection {
+    display: inline-block;
+}
+
+.IG {
+    width: 15em;
+}
+
+#helft {
+    background-color: black;
+}
+
+.helft {
+    display: inline-block;
+}
+
+#kleinrood {
+    font-size: 1em;
+    color: red;
+}
+
+.redbtn {
+    background-color: red;
+    color: white;
+}
+
+p:first-of-type {
+    color: white;
+}
+
+/* THIRD SECTION */
+
+#instabtn {
+    background-color: none;
+    border: 1px solid black;
+}
+
+.h3black {
+    color: black;
+    text-align: center;
+}
+
+/* FOOTER */
