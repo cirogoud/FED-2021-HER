@@ -1,52 +1,25 @@
 # Procesverslag
-**Auteur:** Ciro Goudswaard
+**Auteur:** -jouw naam-
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 
-## Intake (week 1)
--uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau:** Blauw
-
-**Je focus:** Responsive
-
-**Je opdracht:** www.thesting.com
+## Bronnenlijst
+1. -bron 1-
+2. -bron 2-
+3. -...-
 
 
-NOTE: ik ben er nog niet uit hoe ik de afbeelding hier in moet plaatsen dus voor nu even de linkjes naar de map op github zelf...
 
-**Screenshot(s) van de eerste pagina (small screen):**
-https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/The%20Sting%20home.jpg?raw=true
+## Eindgesprek (week 7/8)
 
-IGNORE (dient als vb voor mezelf): <img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+-dit ging goed & dit was lastig-
 
-**Screenshot(s) van de tweede pagina (small screen):**
-https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/Lost%20Minds%20Detail%20Breakdown.jpg
+**Screenshot(s):**
 
-IGNORE (dient als vb voor mezelf): <img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+-screenshot(s) van je eindresultaat-
 
-
-## Breakdownschets (week 1)
-https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/The%20Sting%20Home%20Breakdown.jpg?raw=true
-https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/Lost%20Minds%20Detail%20Breakdown.jpg
-
-
-## Voortgang 1 (week 3)
-### Stand van zaken
-Mijn html was nog niet helemaal op orde en ik had wat kleine dingen in de css geprobeerd om bepaalde classes aan te spreken. Tijdens het feedback gesprek kreeg ik de volgende punten om naar te kijken:
-
-- Section boven article
-- Nav in header
-- H3 ipv h2
-- H2 zou section header zijn
-- script.js
-- Geen px maar em
-- Sections in een main
-
-## Voortgang 2 (week 5)
-
--same as voortgang 1-
 
 
 ## Voortgang 3 (week 6)
@@ -54,25 +27,22 @@ Mijn html was nog niet helemaal op orde en ik had wat kleine dingen in de css ge
 -same as voortgang 1-
 
 
-## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+## Voortgang 2 (week 5)
+
+-same as voortgang 1-
 
 
-**Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
-
+## Voortgang 1 (week 3)
 
 ### Stand van zaken
 
 -dit ging goed & dit was lastig-
 
-
 **Screenshot(s):**
 
 -screenshot(s) van hoe ver je bent met korte uitleg-
-
 
 ### Agenda voor meeting
 
@@ -89,7 +59,26 @@ Mijn html was nog niet helemaal op orde en ik had wat kleine dingen in de css ge
 -na afloop snel uitkomsten vastleggen-
 
 
-## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+
+## Breakdownschets (week 1)
+
+-uitwerken voor de 1e werkgroep - eind van de eerste week-
+
+
+
+## Intake (week 1)
+-uitwerken voor de kick-off werkgroep - begin van de eerste week-
+
+**Je startniveau:** -kies uit zwart, rood óf blauw-
+
+**Je focus:** -kies uit responsive óf surface plane-
+
+**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+
+**Screenshot(s) van de eerste pagina (small screen):**
+
+<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+
+**Screenshot(s) van de tweede pagina (small screen):**
+
+<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
