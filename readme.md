@@ -37,6 +37,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 1 (week 3)
 
+- Section boven article ipv andersom
+- Nav in header zetten, niet los
+- H3 ipv h2 gebruiken bij kopjes
+- H2 zou een section header zijn
+- script.js ipv js.js
+- Geen px maar em gebruiken
+- Sections in een main zetten
+
 ### Stand van zaken
 
 -dit ging goed & dit was lastig-
@@ -64,22 +72,23 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ## Breakdownschets (week 1)
 
 -uitwerken voor de 1e werkgroep - eind van de eerste week-
-
+https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/The%20Sting%20Home%20Breakdown.jpg?raw=true
+https://github.com/cirogoud/FED-2021-HER/blob/main/Breakdown%20schetsen/Lost%20Minds%20Detail%20Breakdown.jpg?raw=true
 
 
 ## Intake (week 1)
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau:** -kies uit zwart, rood óf blauw-
+**Je startniveau:** Blauw
 
 **Je focus:** -kies uit responsive óf surface plane-
 
-**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**Je opdracht:** www.thesting.com 
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="./images/The Sting Home Breakdown.jpg" alt="">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="./images/Lost Minds Detail Breakdown.jpg" alt="">
