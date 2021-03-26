@@ -124,6 +124,7 @@ button {
 #kleinrood {
     font-size: 1em;
     color: red;
+    margin: .5em;
 }
 
 .redbtn {
