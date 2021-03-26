@@ -211,4 +211,16 @@ button {
 #TheStingBanner {
     margin-top: 5em;
 }
+
+#middle {
+    text-align: center;
+}
+
+textarea {
+    margin-top: 3em;
+    text-align: center;
+    color: lightgrey;
+    border: none;
+    border-bottom: 1px solid grey;
+}
 /* FOOTER */
