@@ -7,7 +7,6 @@
 /* NAVIGATIE */
 
 header nav ul {
-    list-style-type: none;
     padding: 1em;
     background-color: black;
     display: inline-block;
@@ -17,7 +16,14 @@ header nav ul li {
     background-color: black;
   }
 
-header nav ul li a {
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    background-color: black;
     text-decoration: none;
     color: white;
   }
@@ -125,4 +131,65 @@ p:first-of-type {
     text-align: center;
 }
 
+#BrandGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 0;
+}
+
+#CottonClub {
+    background-image: url(../images/Cotton\ Club.jpg);
+    height: 495px;
+    width: 382px;
+}
+
+#SevenSisters {
+    background-image: url(../images/Seven\ Sisters.jpg);
+    height: 495px;
+    width: 382px;
+}
+
+#MeltingStockholm {
+    background-image: url(../images/Melting\ Stockholm.jpg);
+    height: 495px;
+    width: 382px;
+}
+
+#Revelation {
+    background-image: url(../images/Revelation.jpg);
+    height: 495px;
+    width: 382px;
+}
+
+#BienBleu {
+    background-image: url(../images/Bien\ bleu.jpg);
+    height: 495px;
+    width: 382px;
+}
+
+#Hallinger {
+    background-image: url(../images/Hallinger.jpg);
+    height: 495px;
+    width: 766px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+#LostMinds {
+    background-image: url(../images/Lost\ Minds.jpg);
+    height: 495px;
+    width: 382px;
+}
+
+#DailyAesthetikz {
+    background-image: url(../images/Daily\ Aesthetikz.jpg);
+    height: 495px;
+    width: 382px;
+}
+
+#AntiBlue {
+    background-image: url(../images/Anti\ Blue.jpg);
+    height: 495px;
+    width: 382px;
+}
 /* FOOTER */
