@@ -34,8 +34,15 @@ button {
     cursor: pointer;
 }
 
+#pwhite {
+    color: white;
+}
+
 p {
-    color: black !important; 
+    color: black; 
+    text-align: center;
+    width: 80%;
+    margin-top: 2em;
 }
 
 /* FIRST SECTION */
@@ -54,6 +61,7 @@ ul:last-of-type {
 h3 {
     color: white;
     font-size: 2.5em;
+    margin-top: 1em;
 }
 
 button {
@@ -89,16 +97,21 @@ button {
 
 /* SECOND SECTION */
 
-#IGsection {
-    display: inline-block;
+#instagram {
+    position: relative;
+    left: 32%;
+    text-align: center;
 }
 
-.IG {
-    width: 15em;
+.InstagramPosts {
+    height: 20em;
+    width: 16em;
+    margin: 1em;
 }
 
 #helft {
     background-color: black;
+    text-align: center;
 }
 
 .helft {
@@ -113,10 +126,7 @@ button {
 .redbtn {
     background-color: red;
     color: white;
-}
-
-p:first-of-type {
-    color: white;
+    margin: 2em;
 }
 
 /* THIRD SECTION */
@@ -129,6 +139,8 @@ p:first-of-type {
 .h3black {
     color: black;
     text-align: center;
+    font-size: 2em;
+    margin-top: 3em;
 }
 
 #BrandGrid {
@@ -191,5 +203,9 @@ p:first-of-type {
     background-image: url(../images/Anti\ Blue.jpg);
     height: 495px;
     width: 382px;
+}
+
+#TheStingBanner {
+    margin-top: 5em;
 }
 /* FOOTER */
