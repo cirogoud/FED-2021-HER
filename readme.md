@@ -49,7 +49,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Het scheiden van de navigatie elementen vind ik aardig lastig
+Responsive krijgen is nog een werkje
 
 **Screenshot(s):**
 
