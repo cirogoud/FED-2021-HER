@@ -35,8 +35,11 @@ button {
 }
 
 #pwhite {
+/* First of type/child pakte het hele doc */
     color: white;
-}
+    margin-top: 1em;
+} 
+
 
 p {
     color: black; 
