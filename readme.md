@@ -51,6 +51,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 Het scheiden van de navigatie elementen vind ik aardig lastig
 Responsive krijgen is nog een werkje
+Grid images klikbaar krijgen, heb ze als een li erin staan
 
 **Screenshot(s):**
 
